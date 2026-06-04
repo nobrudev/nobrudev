@@ -51,18 +51,6 @@ Totem de pedidos inspirado nos quiosques de fast-food, com fluxo em etapas, resu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![nobrudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobrudev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrudev&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nobrudev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-alves1993)
