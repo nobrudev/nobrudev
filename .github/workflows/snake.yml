@@ -16,7 +16,7 @@ jobs:
           github_user_name: nobrudev
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#2dd4bf&color_dots=#f472b6,#2dd4bf,#1a9e8f,#0d6e62
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
