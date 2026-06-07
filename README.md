@@ -31,12 +31,6 @@ $ ls ./projects
 $ git log --oneline --graph
 ```
 
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=nobrudev&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true)
-
-</div>
-
 ```bash
 $ watch contributions --snake
 ```
