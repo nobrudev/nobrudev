@@ -27,9 +27,6 @@ $ ls ./projects
 
 ![projects](https://raw.githubusercontent.com/nobrudev/nobrudev/main/projects.svg)
 
-```bash
-$ git log --oneline --graph
-```
 
 ```bash
 $ watch contributions --snake
