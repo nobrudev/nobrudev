@@ -27,7 +27,6 @@ $ ls ./projects
 
 ![projects](https://raw.githubusercontent.com/nobrudev/nobrudev/main/projects.svg)
 
-
 ```bash
 $ watch contributions --snake
 ```
