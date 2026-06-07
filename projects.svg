@@ -17,7 +17,7 @@
   </defs>
 
   <rect width="680" height="320" rx="12" fill="#0d0d0f"/>
-  <rect class="scan" x="0" y="0" width="680" height="3" fill="#00ff88"/>
+  <rect class="scan" x="0" y="0" width="680" height="3" fill="#2dd4bf"/>
 
   <rect x="0" y="0" width="680" height="32" rx="12" fill="#161618"/>
   <rect x="0" y="20" width="680" height="12" fill="#161618"/>
@@ -26,48 +26,48 @@
   <circle cx="58" cy="16" r="5" fill="#28c840"/>
   <text font-family="monospace" font-size="12" fill="#555" text-anchor="middle" x="340" y="21">nobrudev — bash</text>
 
-  <text font-family="monospace" font-size="12" fill="#555" x="24" y="60">~</text>
-  <text font-family="monospace" font-size="12" fill="#4ade80" x="36" y="60">nobrudev</text>
-  <text font-family="monospace" font-size="12" fill="#555" x="108" y="60">❯</text>
-  <text font-family="monospace" font-size="12" fill="#e2e8f0" x="122" y="60">ls ./projects</text>
+  <text font-family="monospace" font-size="12" fill="#4d5566" x="24" y="60">~</text>
+  <text font-family="monospace" font-size="12" fill="#2dd4bf" x="36" y="60">nobrudev</text>
+  <text font-family="monospace" font-size="12" fill="#4d5566" x="108" y="60">❯</text>
+  <text font-family="monospace" font-size="12" fill="#f472b6" x="122" y="60">ls ./projects</text>
 
   <a href="https://nobrudev.github.io/urbanstore/">
     <g class="row1">
-      <text font-family="monospace" font-size="12" fill="#555" x="24" y="90">01</text>
-      <text font-family="monospace" font-size="12" fill="#818cf8" x="54" y="90">urbanstore</text>
-      <text font-family="monospace" font-size="12" fill="#334155" x="159" y="90">──────────────────────────────────</text>
-      <text font-family="monospace" font-size="12" fill="#94a3b8" x="420" y="90">loja virtual + chatbot whatsapp</text>
-      <text font-family="monospace" font-size="10" fill="#475569" x="54" y="106">HTML · CSS · JS</text>
+      <text font-family="monospace" font-size="12" fill="#4d5566" x="24" y="90">01</text>
+      <text font-family="monospace" font-size="12" fill="#2dd4bf" x="54" y="90">urbanstore</text>
+      <text font-family="monospace" font-size="12" fill="#2a2a2e" x="159" y="90">──────────────────────────────────</text>
+      <text font-family="monospace" font-size="12" fill="#f472b6" x="420" y="90">loja virtual + chatbot whatsapp</text>
+      <text font-family="monospace" font-size="10" fill="#4d5566" x="54" y="106">HTML · CSS · JS</text>
     </g>
   </a>
 
   <a href="https://dogs-social-d6ft.vercel.app/">
     <g class="row2">
-      <text font-family="monospace" font-size="12" fill="#555" x="24" y="140">02</text>
-      <text font-family="monospace" font-size="12" fill="#818cf8" x="54" y="140">dogs-social</text>
-      <text font-family="monospace" font-size="12" fill="#334155" x="168" y="140">──────────────────────────────────</text>
-      <text font-family="monospace" font-size="12" fill="#94a3b8" x="420" y="140">SPA react · consumo de API</text>
-      <text font-family="monospace" font-size="10" fill="#475569" x="54" y="156">React · JavaScript</text>
+      <text font-family="monospace" font-size="12" fill="#4d5566" x="24" y="140">02</text>
+      <text font-family="monospace" font-size="12" fill="#2dd4bf" x="54" y="140">dogs-social</text>
+      <text font-family="monospace" font-size="12" fill="#2a2a2e" x="168" y="140">──────────────────────────────────</text>
+      <text font-family="monospace" font-size="12" fill="#f472b6" x="420" y="140">SPA react · consumo de API</text>
+      <text font-family="monospace" font-size="10" fill="#4d5566" x="54" y="156">React · JavaScript</text>
     </g>
   </a>
 
   <a href="https://nobrudev.github.io/burger-express/">
     <g class="row3">
-      <text font-family="monospace" font-size="12" fill="#555" x="24" y="190">03</text>
-      <text font-family="monospace" font-size="12" fill="#818cf8" x="54" y="190">burger-express</text>
-      <text font-family="monospace" font-size="12" fill="#334155" x="183" y="190">──────────────────────────────────</text>
-      <text font-family="monospace" font-size="12" fill="#94a3b8" x="420" y="190">totem de pedidos · responsivo</text>
-      <text font-family="monospace" font-size="10" fill="#475569" x="54" y="206">HTML · CSS · JS</text>
+      <text font-family="monospace" font-size="12" fill="#4d5566" x="24" y="190">03</text>
+      <text font-family="monospace" font-size="12" fill="#2dd4bf" x="54" y="190">burger-express</text>
+      <text font-family="monospace" font-size="12" fill="#2a2a2e" x="183" y="190">──────────────────────────────────</text>
+      <text font-family="monospace" font-size="12" fill="#f472b6" x="420" y="190">totem de pedidos · responsivo</text>
+      <text font-family="monospace" font-size="10" fill="#4d5566" x="54" y="206">HTML · CSS · JS</text>
     </g>
   </a>
 
   <g class="row3">
-    <text font-family="monospace" font-size="12" fill="#555" x="24" y="240">~</text>
-    <text font-family="monospace" font-size="12" fill="#4ade80" x="36" y="240">nobrudev</text>
-    <text font-family="monospace" font-size="12" fill="#555" x="108" y="240">❯</text>
-    <rect class="cursor" x="122" y="228" width="8" height="14" fill="#4ade80"/>
+    <text font-family="monospace" font-size="12" fill="#4d5566" x="24" y="240">~</text>
+    <text font-family="monospace" font-size="12" fill="#2dd4bf" x="36" y="240">nobrudev</text>
+    <text font-family="monospace" font-size="12" fill="#4d5566" x="108" y="240">❯</text>
+    <rect class="cursor" x="122" y="228" width="8" height="14" fill="#2dd4bf"/>
   </g>
 
-  <rect x="24" y="275" width="170" height="22" rx="4" fill="#1a1a1f"/>
-  <text font-family="monospace" font-size="10" fill="#4ade80" x="34" y="290">● learning: Vue.js + Claude AI</text>
+  <rect x="24" y="275" width="178" height="22" rx="4" fill="#1a1a1f"/>
+  <text font-family="monospace" font-size="10" fill="#f472b6" x="34" y="290">● learning: Vue.js + Claude AI</text>
 </svg>
